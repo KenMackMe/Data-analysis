@@ -15,4 +15,4 @@ In this section I will list data analytics projects briefly describing the techn
 
 | Project Link | Completion Date | Tools | Project Description |
 |--------------|-----------------|--------|----------------------|
-| [🛒 OLIST E-commerce](./Python/OLIST%20online%20E-commerce) | March 2025 | Python, Pandas, Seaborn | Analyzed customer orders and item-level data from Brazil e-commerce dataset to uncover delivery patterns and seller performance insights. Focused on order and order_items datasets, exploring timestamps, product details, and logistics metrics. |
+| [🛒 OLIST E-commerce](./Python/OLIST%20online%20E-commerce) | Mar 2025 | Python, Pandas, Seaborn | Analyzed customer orders and item-level data from Brazil e-commerce dataset to uncover delivery patterns and seller performance insights. Focused on order and order_items datasets, exploring timestamps, product details, and logistics metrics. |
