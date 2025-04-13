@@ -9,7 +9,7 @@ This is a repository that I have created to showcase skills, share projects and 
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ## 📚 table of contents
-- python
+- [python](./Python)
 
 # Python
 
