@@ -8,3 +8,11 @@ Through my experience, I’ve built up skills in working with structured and uns
 This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics related topics.
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+## table of contents
+- python
+
+# Python
+
+| Project Link | Completion Date | Tools | Project Description |
+|--------------|-----------------|--------|----------------------|
+| [🛒 OLIST E-commerce](./Python/OLIST%20E-commerce) | Apr 2025 | Python, Pandas, Seaborn | Analyzed Brazil e-commerce dataset to find key customer and delivery insights. |
