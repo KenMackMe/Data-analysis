@@ -1,6 +1,7 @@
 # Data-analysis-portfolio
 ## About
 I have a background in IT and a growing interest in working with data. I am on track to completing a Bachelor of Science in Information Technology. I’ve developed a solid foundation in data analysis techniques and enjoy turning raw information into clear, meaningful insights that support smarter decision-making.
+
 Through my experience, I’ve built up skills in working with structured and unstructured data, using tools to clean, organize, and extract key patterns and trends. I’m especially interested in how data can be used to drive impact in areas like sustainability, technology, and development.
 
 # Portfolio projects
